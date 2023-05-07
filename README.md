@@ -6,9 +6,5 @@ Trying other approaches for the same
 *Features*
 
 *  Cosine similarity based recommendations using TFIDF word vectors.
-
-*TODO*
-
-* Use doc2vec word vectors
 * Recommendations on the basis of clustering
-* Visualise paper graph
+* Visualised clusters of similar papers with important topics of each cluster
