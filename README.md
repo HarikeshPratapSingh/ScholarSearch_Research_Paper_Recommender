@@ -5,9 +5,10 @@ My code creates vectors from research paper title and abstract and uses a simila
 
 *Features*
 
-* Cosine similarity based recommendations using TFIDF word vectors.
-* Recommendations on the basis of clustering
-* Visualised clusters of similar papers with important topics of each cluster
+* Cosine similarity-based recommendations using TFIDF word vectors.
+* Recommendations based on clustering
+* Visualised clusters of similar papers with important topics in each cluster
+* Web application developed in Flask
 
 *Methodology*
 
@@ -19,3 +20,5 @@ My code creates vectors from research paper title and abstract and uses a simila
 * Apply K-Means Clustering on the new data and use these clusters to make recommendations.
 * Apply Dimensionality Reduction to each feature vector using t-Distributed Stochastic Neighbour Embedding (t-SNE) to cluster similar research articles in the two-dimensional plane.
 * Apply Topic Modeling on the clustered data using Latent Dirichlet Allocation (LDA) to discover keywords from each cluster.
+
+*Screenshots*
