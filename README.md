@@ -1,7 +1,7 @@
-# Research_Paper_Recommender
+# Scholar Search
 
 Research paper recommenders usually use co-citation scores to give recommendations. <br>
-My code creates vectors from the research paper title and abstract and uses a similarity search to give recommendations
+Scholar search creates vectors from the research paper title and abstract and uses a similarity search to give recommendations
 
 *Features*
 
